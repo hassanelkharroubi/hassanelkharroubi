@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ## GitHub Stats:
-[![EL-KHARROUBI Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi-aniq)](https://github.com/elmehdi-aniq/github-readme-stats)
+[![EL-KHARROUBI Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanelkharroubi)](https://github.com/hassanelkharroubi/github-readme-stats)
 
 <!---
 hassanelkharroubi/hassanelkharroubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
