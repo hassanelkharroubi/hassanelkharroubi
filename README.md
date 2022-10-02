@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left"></a>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364.66507 364.66507" height="26" width="26"><path fill="#d00000" d="M0 0h364.665v364.665H0z"/><path d="M135.592 281.48v-67.7l27.49-27.404 68.963 101.91 31.587.248 5.832-11.905-80.248-116.415 73.876-75.108-4.09-11.909H227.48l-91.888 91.863V80.21l-6.717-7.013H106.06l-6.718 7.012v200.976l7.075 7.19 21.985-.088z" fill="#fff"/></svg>
+
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="max-width:100%;" width="26px" align="left"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Java" src="https://user-images.githubusercontent.com/84931728/129572390-4499daa2-bc23-4819-bb46-a508e5ab2d21.png" style="max-width:100%;" width="26px" align="left"></a>
