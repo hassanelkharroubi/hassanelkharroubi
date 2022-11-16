@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Jupyter" src="https://user-images.githubusercontent.com/84931728/129572723-659edd74-7646-49c3-8a53-4f177bbca728.png" style="max-width:100%;" width="26px" align="left"></a>
 <br><br>
 
+
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
 ## GitHub Stats:
 [![EL-KHARROUBI Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanelkharroubi)](https://github.com/hassanelkharroubi/github-readme-stats)
 
