@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/hassanelkharroubi/" rel="nofollow"><img alt="EL-KHARROUBI HASSAN | LinkedIn" src="https://user-images.githubusercontent.com/84931728/129571472-7d420fe7-598b-4fd7-88c1-240fae7c35f5.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&amp;width=24&amp;height=24" style="max-width:100%;" width="22px" align="left"></a>
 <br><br>
 ## Resume/CV:
-   CV : <a href="https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/srgt9hxtnhaarxbbv1tskptrd4.pdf" rel="nofollow" alt="Please visit my linkedin to see ny Resume (www.linkedin.com/in/hassanelkharroubi)">PDF</a>
+   CV : <a href="https://github.com/hassanelkharroubi/hassanelkharroubi/raw/4e80003939ef5778aae5462b615907dc59232d04/Hassan_EL-KHARROUBI_Resume.pdf" alt="Please visit my linkedin to see ny Resume (www.linkedin.com/in/hassanelkharroubi)">PDF</a>
 <br><br>
 ## Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left"></a>
